@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":704,"text":"As soon as you arrive in store, you'll need to check into System 1"},{"start":3233,"text":"so the Partner knows you are on site."},{"start":5167,"text":"To check in, open your System 1 app on your device."},{"start":9120,"text":"You must allow System 1 to access your location in order to get an accurate check in."},{"start":13504,"text":"Once the app is open, select check in"},{"start":15808,"text":"at the bottom of the screen."},{"start":17351,"text":"Confirm the location that pops up is accurate,"},{"start":19706,"text":"then select Confirm Location and Check In."},{"start":22368,"text":"Once you receive your physical ID badge, you'll select I have my ID badge"},{"start":25428,"text":"and scan it to complete your check in."},{"start":26913,"text":"Until then, select skip scanning and proceed."}]}]};
+    window.globalLoadJsAsset('story_content/6ppXFBlehWw_transcripts.js', JSON.stringify(data));
+})();
