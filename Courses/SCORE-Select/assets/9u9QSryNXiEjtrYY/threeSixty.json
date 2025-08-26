@@ -1,0 +1,118 @@
+{
+  "version": "3.85.31840.0",
+  "course_id": "6lRO311AxRh",
+  "title": "Portfolio SCORE Select Approach",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro/Summary"
+    },
+    {
+      "title": "David"
+    },
+    {
+      "title": "Joanna"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5X2RdFwyKUV",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5fnDCJt2Jkp",
+      "title": "Summary",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5hQhvRoi03D",
+      "title": "Enter David",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6P0qFxfJt0s",
+      "title": "Can I help you...",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6Lad6kLkZKt",
+      "title": "Compatible",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5Z0CzR2nVvI",
+      "title": "Wait",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5xuyWsUVFhz",
+      "title": "How long",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5d3PRKogKHx",
+      "title": "Recommendations",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6VNh4699jLK",
+      "title": "Save you money",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6CTOs5FcyYZ",
+      "title": "Let me know",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6YmKLIPHmi0",
+      "title": "Enter Joanna",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5w5Fnb62DJv",
+      "title": "Can I help you...",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5zbe8JWnxn1",
+      "title": "Comment",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6GvD4ankfOG",
+      "title": "Wait",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5V0gojp82rL",
+      "title": "Associate",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6gi5xWvsauN",
+      "title": "What phone",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "69DbwWFksqT",
+      "title": "Let me know 2",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5mFbjiSHc3e",
+      "title": "Wireless Rep",
+      "scene_index": "3.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
